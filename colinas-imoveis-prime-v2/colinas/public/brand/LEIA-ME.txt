@@ -1,0 +1,5 @@
+SLOT DA MARCA COLINAS IMÓVEIS
+- Logo oficial: salve como public/brand/logo.svg (ou logo.png com transparência). Aparece sozinho no cabeçalho, menu e rodapé.
+- A proporção é preservada (altura fixa, largura automática). Ajuste o tamanho em src/app/globals.css: --logo-h.
+- Foto do hero (opcional): public/brand/hero.jpg (ou .webp/.png/.avif). Sem ela, usa a imagem de demonstração.
+- Nenhuma logo fictícia é criada: sem arquivo, aparece apenas o nome em texto.
